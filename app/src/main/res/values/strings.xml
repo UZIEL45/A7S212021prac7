@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">A7S212021prac7</string>
+    <string name="mtitulo">Manejo de Archivos de Texto</string>
+    <string name="tnombre">Ingrese su Nombre</string>
+    <string name="tcontenido">Contenido del Archivo</string>
+    <string name="mgraba">Grabar</string>
+</resources>
